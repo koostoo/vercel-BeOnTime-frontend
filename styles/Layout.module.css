@@ -1,0 +1,15 @@
+.grid {
+  display: flex;
+}
+
+.center {
+  flex: 1;
+}
+
+.reminder {
+  display: flex;
+  min-width: 9vw;
+  min-height: 100vh;
+  background-color: #133559;
+  /* border-left: 1px solid rgb(7, 40, 89); */
+}
